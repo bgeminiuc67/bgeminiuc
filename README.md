@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Benjamin Lee Geminiuc
+### Hi there 👋 I'm Benjamin Geminiuc
 
 🔭 I’m currently studying Computer Science at Wilfrid Laurier University  
 🌱 I’m passionate about full-stack web development and backend systems  
